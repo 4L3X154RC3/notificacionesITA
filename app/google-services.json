@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1088716596222",
+    "firebase_url": "https://notificacionesita.firebaseio.com",
+    "project_id": "notificacionesita",
+    "storage_bucket": "notificacionesita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088716596222:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088716596222-73d19ujsbomu6jk7qnrcejnkp723tj59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABsxYIAvDLlEOqi4DuW0iNZ_Bf4s5P3Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088716596222-73d19ujsbomu6jk7qnrcejnkp723tj59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
